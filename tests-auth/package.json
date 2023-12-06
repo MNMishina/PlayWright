@@ -1,0 +1,22 @@
+{
+  "name": "web-tests-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.airba.dev/marketplace/testing/web-tests-playwright-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
